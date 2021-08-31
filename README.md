@@ -61,6 +61,7 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Una Kravets ](https://una.im/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Surma](https://surma.dev/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Adam Argyle](https://nerdy.dev/)
+- <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [Iuri de Paula](https://iuri.is/)
 
 
 ## 🎨 Designers
