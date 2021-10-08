@@ -62,6 +62,7 @@
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Surma](https://surma.dev/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Adam Argyle](https://nerdy.dev/)
 - <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [Iuri de Paula](https://iuri.is/)
+- <img src="https://www.worldometers.info/img/flags/cm-flag.gif" title="Cameroon" height="14px" width="25px" style="border-radius:3px"> [Enjeck Cleopatra](https://gfolio.enjeck.com/)
 
 
 ## 🎨 Designers
@@ -73,5 +74,6 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Taylor Ho](http://taylorkmho.com/)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Steven Mengin](https://www.stevenmengin.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Tim Smith](http://www.mypoorbrain.com/)
+- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Kieren Parker](https://kieranparker.co.uk/)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Yul Moreau](http://y78.fr/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Alex Coven](https://www.alexcoven.com/)
