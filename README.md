@@ -63,6 +63,9 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Adam Argyle](https://nerdy.dev/)
 - <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [Iuri de Paula](https://iuri.is/)
 - <img src="https://www.worldometers.info/img/flags/cm-flag.gif" title="Cameroon" height="14px" width="25px" style="border-radius:3px"> [Enjeck Cleopatra](https://gfolio.enjeck.com/)
+- <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Tamal Sen](https://tamalsen.dev/)
+- <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [United States](https://www.juliacodes.com/)
+- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Greg Ives](https://gregives.co.uk/)
 
 
 ## 🎨 Designers
