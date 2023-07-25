@@ -76,6 +76,7 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Lynn Fisher](https://lynnandtonic.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Jet Holt](https://jetholt.com/)
 - <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [Alle Sava](https://sava.io)
+- <img src="https://www.worldometers.info/img/flags/uy-flag.gif" title="Uruguay" height="14px" width="25px" style="border-radius:3px"> [Nacho Vazquez](https://naxo.dev)
 
 ## 🎨 Designers
 
