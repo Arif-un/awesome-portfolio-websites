@@ -1,8 +1,8 @@
-# Awesome Personal Websites 🌐
+# Awesome Personal Websites [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Arif-un/awesome-portfolio-websites/)
 
 <img src="https://raw.githubusercontent.com/Arif-un/awesome-portfolio-websites/031d3f14c3020bb1ae433638ca698ef4e54eab2e/img/awesome-portfolio-banner.svg" alt="awesome-designer-developers-portfolio-websites-banner">
 
- A curated list of Awesome creative personal websites from awesome designer and developer 😎.
+ A curated list of Awesome creative personal websites from awesome designers and developers 😎.
 
 ## 👩‍💻 Developers
 
