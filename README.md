@@ -81,6 +81,7 @@
 - <img src="https://www.worldometers.info/img/flags/nl-flag.gif" title="Netherland" height="14px" width="25px" style="border-radius:3px"> [Dennis Snellenberg](https://dennissnellenberg.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Stefan Poulos](https://www.poulos.co/)
 - <img src="https://www.worldometers.info/img/flags/id-flag.gif" title="Indonesia" height="14px" width="25px" style="border-radius:3px"> [Wisnu Wicaksono](https://wiscaksono.com/)
+- <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [David](https://www.david-hckh.com/)
 
 ## 🎨 Designers
 
