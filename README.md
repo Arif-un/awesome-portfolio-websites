@@ -83,6 +83,7 @@
 - <img src="https://www.worldometers.info/img/flags/id-flag.gif" title="Indonesia" height="14px" width="25px" style="border-radius:3px"> [Wisnu Wicaksono](https://wiscaksono.com/)
 - <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [David](https://www.david-hckh.com/)
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Raqib Nur](https://www.raqibnur.com/)
+- <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Parish Khan](https://parish.cv/)
 
 ## 🎨 Designers
 
