@@ -54,6 +54,7 @@
 - <img src="https://www.worldometers.info/img/flags/it-flag.gif" title="Italy" height="14px" width="25px" style="border-radius:3px"> [Patrick](https://bepatrickdavid.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Cory Hughart](https://coryhughart.com/)
 - <img src="https://www.worldometers.info/img/flags/in-flag.gif" title="India" height="14px" width="25px" style="border-radius:3px"> [Prashant Sani](https://prashantsani.com/)
+- <img src="https://www.worldometers.info/img/flags/in-flag.gif" title="India" height="14px" width="25px" style="border-radius:3px"> [Aanand Madhav](https://aanandmadhav.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Albino Tonnina](https://albinotonnina.com/)
 - <img src="https://www.worldometers.info/img/flags/pl-flag.gif" title="Poland" height="14px" width="25px" style="border-radius:3px"> [Kitze](https://kitze.io/)
 - <img src="https://www.worldometers.info/img/flags/pl-flag.gif" title="Poland" height="14px" width="25px" style="border-radius:3px"> [Edwin De Jongh](http://edwindejongh.co/)
