@@ -16,14 +16,14 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Samuel Reed](https://www.strml.net/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Amelia Wattenberger](https://wattenberger.com/)
 - <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Josh W. Comeau](https://www.joshwcomeau.com/)
-- <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Jake Albaugh](https://jakealbaugh.com/)
+- <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> ~~~~[Jake Albaugh](https://jakealbaugh.com/)~~~~
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Josue Espinosa](https://ejosue.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Marc](http://mrcthms.com/)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Raoul Gaillard](https://www.raoul-gaillard.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Simon Evans](https://sii.im/)
 - <img src="https://www.worldometers.info/img/flags/tu-flag.gif" title="Turkey" height="14px" width="25px" style="border-radius:3px"> [Cihad Turhan](https://cihadturhan.com/)
 - <img src="https://www.worldometers.info/img/flags/pl-flag.gif" title="Poland" height="14px" width="25px" style="border-radius:3px"> [Jack](https://jacekjeznach.com/)
-- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Naiara Abaroa](https://naknak.me/)
+- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> ~~~~[Naiara Abaroa](https://naknak.me/)~~~~
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Andrew Borstein](https://andrewborstein.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Jason Lengstorf](https://www.jason.af/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Jack McDade](https://jackmcdade.com/)
@@ -34,18 +34,18 @@
 - <img src="https://www.worldometers.info/img/flags/sn-flag.gif" title="Singapore" height="14px" width="25px" style="border-radius:3px"> [Fajar Siddiq](https://fajarsiddiq.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Ryan Warner](https://ryan.warner.codes/)
 - <img src="https://www.worldometers.info/img/flags/sn-flag.gif" title="Singapore" height="14px" width="25px" style="border-radius:3px"> [AKA SHAWN WANG](https://www.swyx.io/)
-- <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> [Adeola](https://adeolaadeoti.netlify.app/)
+- <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> ~~~~[Adeola](https://adeolaadeoti.netlify.app/)~~~~
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Michael Pumo](https://michaelpumo.com/)
 - <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> [Kenneth Jimmy](https://kenjimmy.me/)
-- <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> [Oluwakemi Adeleke](https://www.kemiadeleke.com/)
+- <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> ~~~~[Oluwakemi Adeleke](https://www.kemiadeleke.com/)~~~~
 - <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> [Sahbabii](https://www.seyi.dev/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Jhey](https://jhey.dev/)
 - <img src="https://www.worldometers.info/img/flags/as-flag.gif" title="Australia" height="14px" width="25px" style="border-radius:3px"> [Adham Dannaway](https://www.adhamdannaway.com/)
 - <img src="https://www.worldometers.info/img/flags/ni-flag.gif" title="Nigeria" height="14px" width="25px" style="border-radius:3px"> [Adenekan Wonderful](https://codewonders.dev/)
 - <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Olaolu Olawuyi](https://olaolu.dev/)
-- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Nick Reyno](https://nickreyno.com/)
-- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Evan](https://www.epwallace.com/)
-- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Andrea Lacson](http://www.andrealacson.com/)
+- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> ~~~~[Nick Reyno](https://nickreyno.com/)~~~~
+- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> ~~~~[Evan](https://www.epwallace.com/)~~~~
+- <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> ~~~~[Andrea Lacson](http://www.andrealacson.com/)~~~~
 - <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Sharon](https://sharon-yi.com/)
 - <img src="https://www.worldometers.info/img/flags/ca-flag.gif" title="Canada" height="14px" width="25px" style="border-radius:3px"> [Alex Calia](https://alexcalia.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Seb kay](https://sebkay.com/)
@@ -62,7 +62,7 @@
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Una Kravets ](https://una.im/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="United Kingdom" height="14px" width="25px" style="border-radius:3px"> [Surma](https://surma.dev/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Adam Argyle](https://nerdy.dev/)
-- <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> [Iuri de Paula](https://iuri.is/)
+- <img src="https://www.worldometers.info/img/flags/gm-flag.gif" title="Germany" height="14px" width="25px" style="border-radius:3px"> ~~~~[Iuri de Paula](https://iuri.is/)~~~~
 - <img src="https://www.worldometers.info/img/flags/cm-flag.gif" title="Cameroon" height="14px" width="25px" style="border-radius:3px"> [Enjeck Cleopatra](https://gfolio.enjeck.com/)
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Tamal Sen](https://tamalsen.dev/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [United States](https://www.juliacodes.com/)
@@ -89,14 +89,14 @@
 
 ## 🎨 Designers
 
-- <img src="https://www.worldometers.info/img/flags/th-flag.gif" title="Thailand" height="14px" width="25px" style="border-radius:3px"> [Nadia](https://nadiaux.design/)
+- <img src="https://www.worldometers.info/img/flags/th-flag.gif" title="Thailand" height="14px" width="25px" style="border-radius:3px"> ~~~~[Nadia](https://nadiaux.design/)~~~~
 - <img src="https://www.worldometers.info/img/flags/nl-flag.gif" title="Netherlands" height="14px" width="25px" style="border-radius:3px"> [Daniel Korpai](https://danielkorpai.com/)
 - <img src="https://www.worldometers.info/img/flags/ei-flag.gif" title="Ireland" height="14px" width="25px" style="border-radius:3px"> [Seán](https://www.seanhalpin.design/)
 - <img src="https://www.worldometers.info/img/flags/nz-flag.gif" title="New Zealand" height="14px" width="25px" style="border-radius:3px"> [Geri](https://gerireid.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Taylor Ho](http://taylorkmho.com/)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Steven Mengin](https://www.stevenmengin.com/)
 - <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Tim Smith](https://www.mypoorbrain.com/)
-- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> [Kieren Parker](https://kieranparker.co.uk/)
-- <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Yul Moreau](https://y78.fr/)
+- <img src="https://www.worldometers.info/img/flags/uk-flag.gif" title="England" height="14px" width="25px" style="border-radius:3px"> ~~~~[Kieren Parker](https://kieranparker.co.uk/)~~~~
+- <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> ~~~~[Yul Moreau](https://y78.fr/)~~~~
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Alex Coven](https://www.alexcoven.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Brad Frost](https://bradfrost.com/)
