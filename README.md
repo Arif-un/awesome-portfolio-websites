@@ -86,6 +86,7 @@
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Raqib Nur](https://www.raqibnur.com/)
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Parish Khan](https://parish.cv/)
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Nooc](https://nooc.me/)
+- <img src="https://www.worldometers.info/img/flags/ee-flag.gif" title="Estonia" height="14px" width="25px" style="border-radius:3px"> [Melih Arık](https://meliharik.dev)
 
 ## 🎨 Designers
 
