@@ -88,6 +88,8 @@
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Nooc](https://nooc.me/)
 - <img src="https://www.worldometers.info/img/flags/ir-flag.gif" title="Iran" height="14px" width="25px" style="border-radius:3px"> [Emad Malekossadat](https://www.creativeed.dev/)
 
+- <img src="https://www.worldometers.info/img/flags/cn-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [lorde](https://ailorde.com/)
+
 ## 🎨 Designers
 
 - <img src="https://www.worldometers.info/img/flags/th-flag.gif" title="Thailand" height="14px" width="25px" style="border-radius:3px"> ~~~~[Nadia](https://nadiaux.design/)~~~~
