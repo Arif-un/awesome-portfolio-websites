@@ -87,6 +87,7 @@
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Parish Khan](https://parish.cv/)
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Nooc](https://nooc.me/)
 - <img src="https://www.worldometers.info/img/flags/ir-flag.gif" title="Iran" height="14px" width="25px" style="border-radius:3px"> [Emad Malekossadat](https://www.creativeed.dev/)
+- <img src="https://www.worldometers.info/images/flags/original/at.webp" title="Austria" height="14px" width="25px" style="border-radius:3px"> [Dino Kupinic](https://www.dino-kupinic.dev/)
 
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
 
