@@ -89,6 +89,7 @@
 - <img src="https://www.worldometers.info/img/flags/ir-flag.gif" title="Iran" height="14px" width="25px" style="border-radius:3px"> [Emad Malekossadat](https://www.creativeed.dev/)
 
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
+- <img src="https://www.worldometers.info/img/flags/sp-flag.gif" title="Spain" height="14px" width="25px" style="border-radius:3px"> [Facundo Allia Fernandez](https://facundoallia.github.io)
 
 ## 🎨 Designers
 
