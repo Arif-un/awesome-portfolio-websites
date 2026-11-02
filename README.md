@@ -6,6 +6,8 @@
 
 ## 👩‍💻 Developers
 
+- <img src="https://www.worldometers.info/img/flags/be-flag.gif" title="Belgium" height="14px" width="25px" style="border-radius:3px"> [Yorben Vander Sleyen](https://yorben.me)
+
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Robby Leonardi](http://rleonardi.com)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Bruno Simon](https://bruno-simon.com/)
 - <img src="https://www.worldometers.info/img/flags/it-flag.gif" title="Italy" height="14px" width="25px" style="border-radius:3px"> [Daniele Petrarolo](https://www.danielepetrarolo.com/)
