@@ -5,6 +5,7 @@
  A curated list of Awesome creative personal websites from awesome designers and developers 😎.
 
 ## 👩‍💻 Developers
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Minimal dark portfolio showcasing native macOS software.
 
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Robby Leonardi](http://rleonardi.com)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Bruno Simon](https://bruno-simon.com/)
@@ -87,6 +88,7 @@
 - <img src="https://www.worldometers.info/img/flags/bg-flag.gif" title="Bangladesh" height="14px" width="25px" style="border-radius:3px"> [Parish Khan](https://parish.cv/)
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Nooc](https://nooc.me/)
 - <img src="https://www.worldometers.info/img/flags/ir-flag.gif" title="Iran" height="14px" width="25px" style="border-radius:3px"> [Emad Malekossadat](https://www.creativeed.dev/)
+- <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Javier Bardem](https://rameerez.com/)
 
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
 
