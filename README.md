@@ -5,6 +5,7 @@
  A curated list of Awesome creative personal websites from awesome designers and developers 😎.
 
 ## 👩‍💻 Developers
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Minimal dark portfolio showcasing native macOS software.
 
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Robby Leonardi](http://rleonardi.com)
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> [Bruno Simon](https://bruno-simon.com/)
