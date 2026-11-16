@@ -104,3 +104,4 @@
 - <img src="https://www.worldometers.info/img/flags/fr-flag.gif" title="France" height="14px" width="25px" style="border-radius:3px"> ~~~~[Yul Moreau](https://y78.fr/)~~~~
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Alex Coven](https://www.alexcoven.com/)
 - <img src="https://www.worldometers.info/img/flags/us-flag.gif" title="United States" height="14px" width="25px" style="border-radius:3px"> [Brad Frost](https://bradfrost.com/)
+- <img src="https://www.worldometers.info/img/flags/gg-flag.gif" title="Georgia" height="14px" width="25px" style="border-radius:3px"> [Oleg Vishnevsky](https://lovelyfriendly.com/)
