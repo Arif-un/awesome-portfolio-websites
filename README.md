@@ -91,6 +91,8 @@
 
 - <img src="https://www.worldometers.info/img/flags/ch-flag.gif" title="China" height="14px" width="25px" style="border-radius:3px"> [Elliot Hu](https://elliothu.me/)
 
+- <img src="https://www.worldometers.info/img/flags/in-flag.gif" title="India" height="14px" width="25px" style="border-radius:3px"> [Falak Gala](https://falakgala.dev/)
+
 ## 🎨 Designers
 
 - <img src="https://www.worldometers.info/img/flags/th-flag.gif" title="Thailand" height="14px" width="25px" style="border-radius:3px"> ~~~~[Nadia](https://nadiaux.design/)~~~~
